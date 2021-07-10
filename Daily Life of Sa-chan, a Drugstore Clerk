@@ -1,0 +1,25 @@
+{
+  "title": "Daily Life of Sa-chan, a Drugstore Clerk",
+  "description": "<manga description>",
+  "artist": "IZUMI Rei",
+  "author": "IZUMI Rei",
+  "cover": "https://pbs.twimg.com/media/E3llimrVcAIgxRz?format=jpg&name=medium",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/6eBueJH/"
+      },
+      "last_updated": "1625921152"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Xo1KODZ/"
+      },
+      "last_updated": "1625921152"
+    }
+  }
+}
