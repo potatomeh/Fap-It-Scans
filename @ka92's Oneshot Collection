@@ -1,6 +1,6 @@
 {
   "title": "@ka92's Oneshot Collection",
-  "description": "A collection of oneshots by @ka92. \n \n https://twitter.com/ka92",
+  "description": "A oneshot collection of @ka92 scanlated by Fap It Scans. \n \n https://twitter.com/ka92",
   "artist": "@ka92",
   "author": "@ka92",
   "cover": "https://imgur.com/jpCiHPB.png",
@@ -9,9 +9,17 @@
       "title": "War",
       "volume": "0",
       "groups": {
-        "someguy": "/proxy/api/imgur/chapter/A8fdmTs/"
+        "Fap It Scans": "/proxy/api/imgur/chapter/A8fdmTs/"
       },
       "last_updated": "1629530191"
+    },
+    "0": {
+      "title": "Carp",
+      "volume": "0",
+      "groups": {
+        "Fap It Scans": "/proxy/api/imgur/chapter/wZnu1E5/"
+      },
+      "last_updated": "1629540571"
     }
   }
 }
