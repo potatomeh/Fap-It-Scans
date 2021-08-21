@@ -1,0 +1,17 @@
+{
+  "title": "@ka92's Oneshot Collection",
+  "description": "A collection of oneshots by @ka92. \n \n https://twitter.com/ka92",
+  "artist": "@ka92",
+  "author": "@ka92",
+  "cover": "https://imgur.com/jpCiHPB",
+  "chapters": {
+    "0": {
+      "title": "War",
+      "volume": "0",
+      "groups": {
+        "someguy": "/proxy/api/imgur/chapter/A8fdmTs/"
+      },
+      "last_updated": "1629530191"
+    }
+  }
+}
