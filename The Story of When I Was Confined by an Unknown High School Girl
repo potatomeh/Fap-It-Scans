@@ -109,13 +109,21 @@
       },
       "last_updated": "1633171376"
     },
-    "13.5": {
-      "title": "My Daily Life in Confinement in a 4-page Manga.",
+    "14": {
+      "title": "Day 14",
       "volume": "0",
       "groups": {
         "Fap It Scans": "/proxy/api/imgur/chapter/vNF2qI5/"
       },
       "last_updated": "1633431600"
+    },
+    "15": {
+      "title": "Day 15",
+      "volume": "0",
+      "groups": {
+        "Fap It Scans": "/proxy/api/imgur/chapter/2YTac8J/"
+      },
+      "last_updated": "1633955324"
     }
   }
 }
